@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|c:\\users\\isaque.henriques\\documents\\atividadecsharp-rockseat\\journey\\src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\isaque.henriques\\documents\\atividadecsharp-rockseat\\journey\\src\\journey.application\\usecases\\trips2\\register\\registertripusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips2\\register\\registertripusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|c:\\users\\isaque.henriques\\documents\\atividadecsharp-rockseat\\journey\\src\\journey.communication\\requests\\requestregistertripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|solutionrelative:src\\journey.communication\\requests\\requestregistertripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9941BF-6FB7-4CF6-9C74-FFE199F96A77}|src\\Journey.Exception\\Journey.Exception.csproj|c:\\users\\isaque.henriques\\documents\\atividadecsharp-rockseat\\journey\\src\\journey.exception\\exceptionsbase\\journeyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9941BF-6FB7-4CF6-9C74-FFE199F96A77}|src\\Journey.Exception\\Journey.Exception.csproj|solutionrelative:src\\journey.exception\\exceptionsbase\\journeyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|c:\\users\\isaque.henriques\\documents\\atividadecsharp-rockseat\\journey\\src\\journey.api\\journey.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\journey.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JourneyException.cs",
+              "DocumentMoniker": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Exception\\ExceptionsBase\\JourneyException.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Exception\\ExceptionsBase\\JourneyException.cs",
+              "ToolTip": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Exception\\ExceptionsBase\\JourneyException.cs",
+              "RelativeToolTip": "src\\Journey.Exception\\ExceptionsBase\\JourneyException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:21:10.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestRegisterTripJson.cs",
+              "DocumentMoniker": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Communication\\Requests\\RequestRegisterTripJson.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Communication\\Requests\\RequestRegisterTripJson.cs",
+              "ToolTip": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Communication\\Requests\\RequestRegisterTripJson.cs",
+              "RelativeToolTip": "src\\Journey.Communication\\Requests\\RequestRegisterTripJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:01:20.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterTripUserCase.cs",
+              "DocumentMoniker": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Application\\UseCases\\Trips2\\Register\\RegisterTripUserCase.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips2\\Register\\RegisterTripUserCase.cs",
+              "ToolTip": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Application\\UseCases\\Trips2\\Register\\RegisterTripUserCase.cs",
+              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips2\\Register\\RegisterTripUserCase.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:27:49.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TripsController.cs",
+              "DocumentMoniker": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Api\\Controllers\\TripsController.cs",
+              "ToolTip": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
+              "RelativeToolTip": "src\\Journey.Api\\Controllers\\TripsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:37:18.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Journey.Api",
+              "DocumentMoniker": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Api\\Journey.Api.csproj",
+              "RelativeDocumentMoniker": "src\\Journey.Api\\Journey.Api.csproj",
+              "ToolTip": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Api\\Journey.Api.csproj",
+              "RelativeToolTip": "src\\Journey.Api\\Journey.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T12:34:33.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
