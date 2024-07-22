@@ -36,6 +36,10 @@ namespace Journey.Api.Controllers
         public IActionResult GetAll()
         {
             var UseCase = new GetAllTripsUseCase();
+
+            var result = UseCase.Execute();
+
+            return Ok(result);
         }
     }
 }

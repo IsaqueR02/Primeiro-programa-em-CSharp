@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\isaque.henriques\\desktop\\programas\\github\\primeiro-programa-em-csharp\\atividade pratica\\journey\\src\\journey.application\\usecases\\trips2\\register\\registertripusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips2\\register\\registertripusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|c:\\users\\isaque.henriques\\desktop\\programas\\github\\primeiro-programa-em-csharp\\atividade pratica\\journey\\src\\journey.communication\\requests\\requestregistertripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|solutionrelative:src\\journey.communication\\requests\\requestregistertripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|c:\\users\\isaque.henriques\\desktop\\programas\\github\\primeiro-programa-em-csharp\\atividade pratica\\journey\\src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|c:\\users\\isaque.henriques\\desktop\\programas\\github\\primeiro-programa-em-csharp\\atividade pratica\\journey\\src\\journey.communication\\responses\\responseshorttripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|solutionrelative:src\\journey.communication\\responses\\responseshorttripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\isaque.henriques\\desktop\\programas\\github\\primeiro-programa-em-csharp\\atividade pratica\\journey\\src\\journey.application\\usecases\\trips2\\register\\registertripusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips2\\register\\registertripusercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|c:\\users\\isaque.henriques\\desktop\\programas\\github\\primeiro-programa-em-csharp\\atividade pratica\\journey\\src\\journey.communication\\requests\\requestregistertripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|solutionrelative:src\\journey.communication\\requests\\requestregistertripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7491156F-1F24-41A3-A3C0-F4D75B730FEF}|src\\Journey.Infrastructure\\Journey.Infrastructure.csproj|c:\\users\\isaque.henriques\\desktop\\programas\\github\\primeiro-programa-em-csharp\\atividade pratica\\journey\\src\\journey.infrastructure\\journeydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,26 +78,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "GetAllTripsUseCase.cs",
               "DocumentMoniker": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Application\\UseCases\\GetAll\\GetAllTripsUseCase.cs",
               "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\GetAll\\GetAllTripsUseCase.cs",
               "ToolTip": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Application\\UseCases\\GetAll\\GetAllTripsUseCase.cs",
               "RelativeToolTip": "src\\Journey.Application\\UseCases\\GetAll\\GetAllTripsUseCase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T14:38:37.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ResponseShortTripJson.cs",
               "DocumentMoniker": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Communication\\Responses\\ResponseShortTripJson.cs",
               "RelativeDocumentMoniker": "src\\Journey.Communication\\Responses\\ResponseShortTripJson.cs",
               "ToolTip": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Communication\\Responses\\ResponseShortTripJson.cs",
               "RelativeToolTip": "src\\Journey.Communication\\Responses\\ResponseShortTripJson.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T14:00:05.569Z",
               "EditorCaption": ""
@@ -117,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RequestRegisterTripJson.cs",
               "DocumentMoniker": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Communication\\Requests\\RequestRegisterTripJson.cs",
               "RelativeDocumentMoniker": "src\\Journey.Communication\\Requests\\RequestRegisterTripJson.cs",
@@ -130,26 +130,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "RegisterTripUserCase.cs",
               "DocumentMoniker": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Application\\UseCases\\Trips2\\Register\\RegisterTripUserCase.cs",
               "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips2\\Register\\RegisterTripUserCase.cs",
               "ToolTip": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Application\\UseCases\\Trips2\\Register\\RegisterTripUserCase.cs",
               "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips2\\Register\\RegisterTripUserCase.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAADwvygAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvw8AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T11:43:41.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TripsController.cs",
               "DocumentMoniker": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
               "RelativeDocumentMoniker": "src\\Journey.Api\\Controllers\\TripsController.cs",
               "ToolTip": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
               "RelativeToolTip": "src\\Journey.Api\\Controllers\\TripsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAzAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T12:37:18.702Z",
               "EditorCaption": ""
