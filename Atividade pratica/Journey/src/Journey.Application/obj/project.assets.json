@@ -65,11 +65,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Application\\Journey.Application.csproj",
+      "projectUniqueName": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Application\\Journey.Application.csproj",
       "projectName": "Journey.Application",
-      "projectPath": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Application\\Journey.Application.csproj",
+      "projectPath": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Application\\Journey.Application.csproj",
       "packagesPath": "C:\\Users\\isaque.henriques\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Application\\obj\\",
+      "outputPath": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,14 +91,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj": {
-              "projectPath": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj"
+            "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj": {
+              "projectPath": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj"
             },
-            "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj": {
-              "projectPath": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj"
+            "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj": {
+              "projectPath": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj"
             },
-            "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj"
+            "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj"
             }
           }
         }

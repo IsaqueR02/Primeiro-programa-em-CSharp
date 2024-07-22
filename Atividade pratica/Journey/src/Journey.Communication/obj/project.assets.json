@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj",
+      "projectUniqueName": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj",
       "projectName": "Journey.Communication",
-      "projectPath": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj",
+      "projectPath": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj",
       "packagesPath": "C:\\Users\\isaque.henriques\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isaque.henriques\\Documents\\AtividadeCSharp-Rockseat\\Journey\\src\\Journey.Communication\\obj\\",
+      "outputPath": "C:\\Users\\isaque.henriques\\Desktop\\Programas\\Github\\Primeiro-programa-em-CSharp\\Atividade pratica\\Journey\\src\\Journey.Communication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
