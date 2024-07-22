@@ -9,3 +9,16 @@ C:\Users\isaque.henriques\Documents\AtividadeCSharp-Rockseat\Journey\src\Journey
 C:\Users\isaque.henriques\Documents\AtividadeCSharp-Rockseat\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\refint\Journey.Infrastructure.dll
 C:\Users\isaque.henriques\Documents\AtividadeCSharp-Rockseat\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
 C:\Users\isaque.henriques\Documents\AtividadeCSharp-Rockseat\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.deps.json
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.dll
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfo.cs
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.sourcelink.json
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.dll
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\refint\Journey.Infrastructure.dll
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.AssemblyReference.cache

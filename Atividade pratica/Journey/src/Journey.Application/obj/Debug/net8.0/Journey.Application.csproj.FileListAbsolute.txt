@@ -17,3 +17,23 @@ C:\Users\isaque.henriques\Documents\AtividadeCSharp-Rockseat\Journey\src\Journey
 C:\Users\isaque.henriques\Documents\AtividadeCSharp-Rockseat\Journey\src\Journey.Application\obj\Debug\net8.0\refint\Journey.Application.dll
 C:\Users\isaque.henriques\Documents\AtividadeCSharp-Rockseat\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.pdb
 C:\Users\isaque.henriques\Documents\AtividadeCSharp-Rockseat\Journey\src\Journey.Application\obj\Debug\net8.0\ref\Journey.Application.dll
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.deps.json
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.dll
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.pdb
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Communication.dll
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Exception.dll
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Infrastructure.dll
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Communication.pdb
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Exception.pdb
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.csproj.AssemblyReference.cache
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.AssemblyInfoInputs.cache
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.AssemblyInfo.cs
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.csproj.CoreCompileInputs.cache
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.sourcelink.json
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\obj\Debug\net8.0\Journey..4308BAD8.Up2Date
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.dll
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\obj\Debug\net8.0\refint\Journey.Application.dll
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.pdb
+C:\Users\isaque.henriques\Desktop\Programas\Github\Primeiro-programa-em-CSharp\Atividade pratica\Journey\src\Journey.Application\obj\Debug\net8.0\ref\Journey.Application.dll
