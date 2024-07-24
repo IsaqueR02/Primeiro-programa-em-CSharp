@@ -26,7 +26,7 @@ public class RegisterTripUserCase
             EndDate = request.EndDate,
         };
 
-        dbContext.trips.Add(entity);
+        dbContext.Trips.Add(entity);
 
         dbContext.SaveChanges();
 
