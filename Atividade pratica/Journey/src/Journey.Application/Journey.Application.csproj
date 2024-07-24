@@ -8,15 +8,12 @@
 
   <ItemGroup>
     <Compile Remove="UseCases\NovaPasta1\**" />
-    <Compile Remove="UseCases\Trips2\Delete\**" />
     <Compile Remove="UseCases\Trips2\NewFolder1\**" />
     <Compile Remove="UseCases\Trips2\NewFolder2\**" />
     <EmbeddedResource Remove="UseCases\NovaPasta1\**" />
-    <EmbeddedResource Remove="UseCases\Trips2\Delete\**" />
     <EmbeddedResource Remove="UseCases\Trips2\NewFolder1\**" />
     <EmbeddedResource Remove="UseCases\Trips2\NewFolder2\**" />
     <None Remove="UseCases\NovaPasta1\**" />
-    <None Remove="UseCases\Trips2\Delete\**" />
     <None Remove="UseCases\Trips2\NewFolder1\**" />
     <None Remove="UseCases\Trips2\NewFolder2\**" />
   </ItemGroup>
