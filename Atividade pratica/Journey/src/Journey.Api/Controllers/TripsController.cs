@@ -38,6 +38,7 @@ namespace Journey.Api.Controllers;
         }
 
     [HttpGet]
+    [ProducesResponseType(typeof(ResponseTripsJson), StatusCodes.Status200OK)]
     public IActionResult GetAll()
         {
             var UseCase = new GetAllTripsUseCase();
@@ -49,7 +50,7 @@ namespace Journey.Api.Controllers;
 
     [HttpGet]
     [Route("{id}")]
-    [ProducesResponseType(typeof(ResponseShortTripJson), StatusCodes.Status200OK)]
+    [ProducesResponseType(typeof(ResponseTripJson), StatusCodes.Status200OK)]
     public IActionResult GetById([FromRoute] Guid id)
     {
         var useCase = new GetTripByIdUseCase();
